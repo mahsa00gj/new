@@ -1,0 +1,3 @@
+print("it/'s new")
+x=90
+print(x)
